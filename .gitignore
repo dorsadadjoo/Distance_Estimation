@@ -3,3 +3,4 @@
 /*.zip
 /.vscode
 *.obj
+.ipynb_checkpoints
